@@ -10,7 +10,7 @@ https://www.instagram.com/serhii.kolesnyk
 WhatsApp
 https://wa.me/380962170201
 
-Telegram
+<a href="https://t.me/serhii_kolesnyk">Telegram</a>
 https://t.me/serhii_kolesnyk
 
 <!---
