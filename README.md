@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serhii-kolesnyk
-- 👀 I’m interested in Web-design & web-developer
+- 👀 I’m interested in Web-design & web-developing
 - 🌱 I’m currently learning Front-end developing
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 How to reach me? Watch below 👇 
