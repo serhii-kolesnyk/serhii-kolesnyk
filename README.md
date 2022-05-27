@@ -1,7 +1,7 @@
-👋 Hi, I’m @serhii-kolesnyk
-👀 I’m interested in Web-design & web-developing
-🌱 I’m currently learning Front-end developing
-💞️ I’m looking to collaborate on creative projects.
+👋 Hi, I’m @serhii-kolesnyk </br>
+👀 I’m interested in Web-design & web-developing </br>
+🌱 I’m currently learning Front-end developing </br>
+💞️ I’m looking to collaborate on creative projects </br>
 📫 How to reach me? Watch below 👇 
 
 <a href="https://www.instagram.com/serhii.kolesnyk">Instagram</a> </br>
